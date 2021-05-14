@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+My favorite types of food:
+1. Chinese food
+2. Chicken
+3. Eggs
